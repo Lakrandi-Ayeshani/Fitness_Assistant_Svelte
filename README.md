@@ -8,12 +8,22 @@ This is my web application built with SvelteKit and Tailwind CSS. It connects to
 
 ## Screenshots
 
+### DashBoard View
+
 ![DashBoard View](docs/image1.png)
 
-![Exercise Page](docs/image3.png)
+### Exercise Page View
+
+![Exercise Page](docs/image2.png)
+
+### Workout Page View
 
 ![Workout Page](docs/image3.png)
 
+### Add Exercise Form Page View
+
 ![Add Exercise Form Page](docs/image4.png)
 
-![add Workout Form Page](docs/image5.png)
+### Add Workout Form Page View
+
+![Add Workout Form Page](docs/image5.png)
