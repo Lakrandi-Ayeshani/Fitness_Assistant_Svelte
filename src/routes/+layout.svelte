@@ -11,7 +11,7 @@
         <a href="/workout">Workout</a> -->
       </SideBar>
   </div>
-  <div class="col-span-8 md:col-span-9 bg-gradient-to-r from-cyan-400 to-cyan-100">
+  <div class="col-span-8 md:col-span-9 bg-cyan-100 bg-gradient-to-r from-cyan-400 to-cyan-100">
     <section>
       <slot />
     </section>
